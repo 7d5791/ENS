@@ -1,0 +1,108 @@
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#499: bad window path name ""
+    while executing
+"winfo toplevel [focus]"
+    invoked from within
+"if [catch {
+       opp_displaystring $dispstr parse tags $submodptr 1
+
+       # scale (x,y)
+       if {$scaling != ""} {
+           set x [expr $scali..."
+    (procedure "ModuleInspector:drawSubmodule" line 20)
+    invoked from within
+"ModuleInspector:drawSubmodule .network.c ptr0x3c4b540 150 140 {rsu[0]} {p=150,140;b=10,10,antennatower_vl} {} 0"
+
+
+Tcl error: moduleinspector.cc#499: bad window path name ""
+    while executing
+"winfo toplevel [focus]"
+    invoked from within
+"if [catch {
+       opp_displaystring $dispstr parse tags $submodptr 1
+
+       # scale (x,y)
+       if {$scaling != ""} {
+           set x [expr $scali..."
+    (procedure "ModuleInspector:drawSubmodule" line 20)
+    invoked from within
+"ModuleInspector:drawSubmodule .network.c ptr0x3c4b980 150 140 {rsu[1]} {p=150,140;b=10,10,antennatower_vl} {} 0"
+
+
+Tcl error: moduleinspector.cc#499: bad window path name ""
+    while executing
+"winfo toplevel [focus]"
+    invoked from within
+"if [catch {
+       opp_displaystring $dispstr parse tags $submodptr 1
+
+       # scale (x,y)
+       if {$scaling != ""} {
+           set x [expr $scali..."
+    (procedure "ModuleInspector:drawSubmodule" line 20)
+    invoked from within
+"ModuleInspector:drawSubmodule .network.c ptr0x3c4bc10 150 140 {rsu[2]} {p=150,140;b=10,10,antennatower_vl} {} 0"
+
+
+Tcl error: moduleinspector.cc#499: bad window path name ""
+    while executing
+"winfo toplevel [focus]"
+    invoked from within
+"if [catch {
+       opp_displaystring $dispstr parse tags $submodptr 1
+
+       # scale (x,y)
+       if {$scaling != ""} {
+           set x [expr $scali..."
+    (procedure "ModuleInspector:drawSubmodule" line 20)
+    invoked from within
+"ModuleInspector:drawSubmodule .network.c ptr0x3c4bc10 150 140 {rsu[2]} {p=150,140;b=10,10,antennatower_vl} {} 0"
+
+
+Tcl error: moduleinspector.cc#499: bad window path name ""
+    while executing
+"winfo toplevel [focus]"
+    invoked from within
+"if [catch {
+       opp_displaystring $dispstr parse tags $submodptr 1
+
+       # scale (x,y)
+       if {$scaling != ""} {
+           set x [expr $scali..."
+    (procedure "ModuleInspector:drawSubmodule" line 20)
+    invoked from within
+"ModuleInspector:drawSubmodule .network.c ptr0x3c4b540 2500 20 {rsu[0]} {p=2500.00000,20.00000;b=9.55000,9.55000,antennatower_vl} {} 0"
+
+
+Tcl error: moduleinspector.cc#499: bad window path name ""
+    while executing
+"winfo toplevel [focus]"
+    invoked from within
+"if [catch {
+       opp_displaystring $dispstr parse tags $submodptr 1
+
+       # scale (x,y)
+       if {$scaling != ""} {
+           set x [expr $scali..."
+    (procedure "ModuleInspector:drawSubmodule" line 20)
+    invoked from within
+"ModuleInspector:drawSubmodule .network.c ptr0x3c4b980 4000 20 {rsu[1]} {p=4000.00000,20.00000;b=9.55000,9.55000,antennatower_vl} {} 0"
+
+
+Tcl error: moduleinspector.cc#499: bad window path name ""
+    while executing
+"winfo toplevel [focus]"
+    invoked from within
+"if [catch {
+       opp_displaystring $dispstr parse tags $submodptr 1
+
+       # scale (x,y)
+       if {$scaling != ""} {
+           set x [expr $scali..."
+    (procedure "ModuleInspector:drawSubmodule" line 20)
+    invoked from within
+"ModuleInspector:drawSubmodule .network.c ptr0x3c4bc10 5500 20 {rsu[2]} {p=5500.00000,20.00000;b=9.55000,9.55000,antennatower_vl} {} 0"
+
+

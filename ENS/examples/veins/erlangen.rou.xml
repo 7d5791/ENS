@@ -1,0 +1,14 @@
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.sf.net/xsd/routes_file.xsd">
+   <vType id="SUMO_DEFAULT_TYPE" accel="0.8" decel="4.5" sigma="0.5" length="5" minGap="2" maxSpeed="25"/>
+  
+   <route id="always_right" edges="gneE3 gneE5 "/>
+   <flow id="always_right"  type="SUMO_DEFAULT_TYPE" route="always_right" begin="0" period="3" number="1"/>
+
+    
+     
+   <route id="always_left" edges="gneE6 gneE7 "/>
+   <flow id="always_left"  type="SUMO_DEFAULT_TYPE" route="always_left" begin="0" period="3" number="0"/>
+ 
+ 
+    
+</routes>
